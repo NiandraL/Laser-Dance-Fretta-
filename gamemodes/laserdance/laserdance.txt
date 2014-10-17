@@ -1,0 +1,13 @@
+"laserdance"
+{
+	"base"				"fretta13"
+	"title"				"Laser Dance"
+	"menusystem"		"1"
+	"maps"				"ld_"
+
+	"selectable"		"1"
+	"fretta_maps"
+	{
+		"1"	"ld_"
+	}
+}
